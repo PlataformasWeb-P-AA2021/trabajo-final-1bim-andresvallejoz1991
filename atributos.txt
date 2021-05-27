@@ -1,0 +1,16 @@
+codigo_amie
+nombre_instituto
+codigo_prov
+provincia
+codigo_canton
+canton
+codigo_parroquia
+parroquia
+codigo_distrito
+sostenimiento
+tipo_edu
+modalidad
+jornada
+acceso
+num_estudiantes
+num_docentes
